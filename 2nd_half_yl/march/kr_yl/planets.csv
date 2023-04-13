@@ -1,0 +1,6 @@
+id;planet;star;order;oxygen;atmosphere;water;life
+48;Kepler-22 b;Kepler-22;2;0;True;1;0
+49;Kepler-441 f;Kepler-441;6;1;1;0;1
+50;Gliese-832 c;Gliese-832;3;0;0;1;1
+51;Kepler-22 d;Kepler-22;4;1;1;0;0
+52;Kepler-22 a;Kepler-22;0;0;0;1;0

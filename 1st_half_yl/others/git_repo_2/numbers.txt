@@ -1,0 +1,7 @@
+4
+5
+6
+7^Z
+git init
+git add numbers.txt
+git commit
